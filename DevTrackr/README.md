@@ -1,4 +1,4 @@
-# DevTrackr Final
+# DevTrackr 
 
 DevTrackr is a CLI tool for tracking developer time, hiccups, and project notes. This version includes timers, edit/delete, and rich output.
 
@@ -7,4 +7,4 @@ Setup:
 2. pipenv install --dev
 3. pipenv shell
 4. python -m devtrackr.db
-5. python run.py --help
+5. python run.py
